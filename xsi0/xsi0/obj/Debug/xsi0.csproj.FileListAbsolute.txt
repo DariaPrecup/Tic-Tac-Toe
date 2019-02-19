@@ -1,0 +1,10 @@
+E:\C#\xsi0\xsi0\bin\Debug\xsi0.exe.config
+E:\C#\xsi0\xsi0\bin\Debug\xsi0.exe
+E:\C#\xsi0\xsi0\bin\Debug\xsi0.pdb
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.csprojAssemblyReference.cache
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.Form1.resources
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.Properties.Resources.resources
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.csproj.GenerateResource.cache
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.csproj.CoreCompileInputs.cache
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.exe
+E:\C#\xsi0\xsi0\obj\Debug\xsi0.pdb
